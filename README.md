@@ -65,6 +65,6 @@ then you see PCL in your conda virtual environment
 python .\examples\visualization.py
 ```
 
-![image](./pics/test_vis.py)
+![image](./pics/test_vis.png)
 
 
