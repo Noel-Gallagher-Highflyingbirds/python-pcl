@@ -34,9 +34,8 @@ D:\carlos\Program Files\PCL 1.8.1\3rdParty\Qhull\bin\
 git clone https://github.com/Noel-Gallagher-Highflyingbirds/python-pcl.git
 cd python-pcl
 ```
-download[Windows Gtk+ gtk+ -bundle_3.6.4-20130513_win64.zip](http://www.tarnyko.net/dl/gtk.htm), \
-copy all files in "gtk+-bundle_3.6.4-20130513_win64/bin" into python-pcl/pkg-config\
-
+download[Windows Gtk+ gtk+ -bundle_3.6.4-20130513_win64.zip](http://www.tarnyko.net/dl/gtk.htm),\
+copy all files in "gtk+-bundle_3.6.4-20130513_win64/bin" into python-pcl/pkg-config \
 ![image](./pics/copy_files.png)
 
 ```bash
