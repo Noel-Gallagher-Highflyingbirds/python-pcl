@@ -19,6 +19,7 @@ PCL_ROOT：D:\carlos\Program Files\PCL 1.8.1
 If you don't have these variables here, add them manually
 
 then add following variabales to Path
+
 ![image](./pics/Path0.png)
 
 >D:\carlos\Program Files\PCL 1.8.1\bin
@@ -36,6 +37,7 @@ cd python-pcl
 ```
 download[Windows Gtk+ gtk+ -bundle_3.6.4-20130513_win64.zip](http://www.tarnyko.net/dl/gtk.htm), 
 copy all files in "gtk+-bundle_3.6.4-20130513_win64/bin" into python-pcl/pkg-config
+
 ![image](./pics/copy_files.png)
 
 ```bash
@@ -67,4 +69,5 @@ python .\examples\visualization.py
 
 ![image](./pics/test_vis.png)
 
-
+## csdn
+[https://blog.csdn.net/qq_41102371/article/details/122213998](https://blog.csdn.net/qq_41102371/article/details/122213998)
