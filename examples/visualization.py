@@ -11,7 +11,9 @@ import pcl.pcl_visualization
 def main():
     # cloud = pcl.load_XYZRGB(
     #     './examples/pcldata/tutorials/table_scene_mug_stereo_textured.pcd')
-    cloud = pcl.load("Tile_173078_LD_010_017_L22.obj")
+    cloud = pcl.load(
+         './examples/pcldata/tutorials/table_scene_lms400.pcd')
+    #cloud = pcl.load("Tile_173078_LD_010_017_L22.obj")
     # Centred the data
     centred = cloud - np.mean(cloud, 0)
     # print(centred)
