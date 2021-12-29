@@ -21,11 +21,11 @@ then add following variabales to Path
 
 ![image](./pics/Path0.png)
 
->D:\carlos\Program Files\PCL 1.8.1\bin
-D:\carlos\Program Files\PCL 1.8.1\3rdParty\VTK\bin
-D:\carlos\Program Files\PCL 1.8.1\3rdParty\OpenNI2\Tools
-D:\carlos\Program Files\PCL 1.8.1\3rdParty\FLANN\bin
-D:\carlos\Program Files\PCL 1.8.1\3rdParty\Qhull\bin
+>D:\carlos\Program Files\PCL 1.8.1\bin\
+D:\carlos\Program Files\PCL 1.8.1\3rdParty\VTK\bin\
+D:\carlos\Program Files\PCL 1.8.1\3rdParty\OpenNI2\Tools\
+D:\carlos\Program Files\PCL 1.8.1\3rdParty\FLANN\bin\
+D:\carlos\Program Files\PCL 1.8.1\3rdParty\Qhull\bin\
 
 ![image](./pics/Path1.png)
 
